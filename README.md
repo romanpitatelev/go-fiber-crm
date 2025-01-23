@@ -23,3 +23,7 @@ The following API endpoints are available:
 - GET /api/v1/lead/:id: Retrieve a specific lead by ID.
 - POST /api/v1/lead: Create a new lead.
 - DELETE /api/v1/lead/:id: Delete an existing lead.
+
+### Database
+
+The application uses an SQLite database to store lead information. The database file leads.db will be created in the project directory when you run the application. The database schema will be automatically migrated upon starting the application.
