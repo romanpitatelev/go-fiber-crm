@@ -1,4 +1,5 @@
 # Simple CRM Lead Management System
+(practice project based on video by Akhil Sharma)
 
 The Simple CRM Lead Management System is a Go application that provides a RESTful API for managing leads. It utilizes the Fiber web framework and the GORM ORM library to handle HTTP requests and interact with a SQLite database.
 Features
